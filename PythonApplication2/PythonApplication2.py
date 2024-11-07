@@ -1,5 +1,5 @@
 import asyncio
 import logging
 
-from semantic_kernel import Kernel
+from semantic-kernel import Kernel
 
