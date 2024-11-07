@@ -1,2 +1,2 @@
-import semantic_kernel
+import semantic-kernel
 
